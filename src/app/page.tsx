@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <div className="relative h-[calc(100vh-156px)] items-center justify-center text-center">
+    <div className="relative h-[calc(100vh-156px)] items-center justify-center text-center sm:h-[calc(100vh-172px)]">
       <Image
         src="/images/cover-large.jpg"
         alt="Recepten"
