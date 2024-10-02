@@ -2,10 +2,18 @@
 
 Dirk Bouckaert
 Programmeren 5  
-Arteveldehogeschool 2024-25 
+Arteveldehogeschool 2024-25
 
----  
- 
+---
+
+## Afbeeldingen
+
+<img src="public/app/Screenshot_0.png" width="720"/><br>  
+<img src="public/app/Screenshot_2.png" width="520"/><br>  
+<img src="public/app/Screenshot_3.png" width="720"/><br>
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
