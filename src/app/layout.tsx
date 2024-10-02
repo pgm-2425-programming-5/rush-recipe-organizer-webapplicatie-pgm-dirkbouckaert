@@ -5,6 +5,7 @@ import './globals.css';
 
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
+import { ToastContainer } from 'react-toastify';
 
 const quicksand = Quicksand({
   weight: ['400', '700'],
@@ -30,6 +31,7 @@ export default function RootLayout({
       >
         <Header />
         <main>{children}</main>
+        <ToastContainer />
         <Footer />
       </body>
     </html>

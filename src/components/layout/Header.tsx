@@ -12,7 +12,7 @@ const Header = () => {
   const linkActiveStyle = 'border-none bg-emerald-600 text-white';
 
   return (
-    <header className="bg-emerald-700 px-6 py-4 text-slate-50">
+    <header className="bg-emerald-700 text-slate-50">
       <div className="app-container flex items-center justify-between">
         <Link href="/">
           <GiRiceCooker className="text-7xl text-emerald-100" />
